@@ -8,5 +8,5 @@ Task : Simple 3D Game - Matrikulasi Pribadi
   * Pinball Game Academy
   * Credit
  
-## Tampilan Sementara
-![image](https://github.com/Maritsa03/Maritsa-GamePinball/assets/131169444/01557ba2-2c2a-43ec-8cbe-5a53c366e05b)   
+## Tampilan Game
+![image](https://github.com/Maritsa03/Maritsa-GamePinball/assets/131169444/bbe40342-f43d-41a1-a071-56b1c0b16e2c)   
